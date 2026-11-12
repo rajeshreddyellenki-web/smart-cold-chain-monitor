@@ -1,0 +1,5 @@
+shipment,product,readings,hours,min_c,max_c,mean_c,mkt_c,excursions,minutes_out_of_range,shelf_life_lost_pct,excess_loss_pct,remaining_shelf_hours,status,advice
+SHP-001,vaccine,96,23.8,4.5,5.3,5.0,5.0,0,0,3.32,-0.01,696,OK,Release normally.
+SHP-002,vaccine,96,23.8,4.6,8.5,5.2,5.2,1,15,3.39,0.06,696,WARNING,Inspect goods and check the refrigeration unit before release.
+SHP-003,dairy,96,23.8,1.6,4.6,2.5,2.5,0,0,6.77,-0.38,313,WARNING,Inspect goods and check the refrigeration unit before release.
+SHP-004,frozen,96,23.8,-20.4,-5.6,-14.1,-11.2,1,615,2.75,1.64,2101,CRITICAL,Quarantine the load and have quality control decide before use or sale.

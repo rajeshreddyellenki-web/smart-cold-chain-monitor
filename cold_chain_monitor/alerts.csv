@@ -1,0 +1,12 @@
+shipment_id,time,severity,type,message
+SHP-002,2026-11-10 16:00,WARNING,RAPID_CHANGE,Temperature moved +1.9 C in 15 min (+0.13 C/min) - check door seal or compressor
+SHP-002,2026-11-10 16:15,WARNING,EXCURSION,"HIGH excursion for 15 min, peak 8.5 C (safe 2 to 8 C) (door open logged)"
+SHP-003,2026-11-11 05:45,WARNING,PREDICTED_BREACH,Trending high at +0.36 C/hour; expected to leave safe range in about 65 min
+SHP-004,2026-11-10 13:30,WARNING,RAPID_CHANGE,Temperature moved +4.8 C in 15 min (+0.32 C/min) - check door seal or compressor
+SHP-004,2026-11-10 13:45,CRITICAL,EXCURSION,"HIGH excursion for 615 min, peak -5.6 C (safe -25 to -15 C)"
+SHP-004,2026-11-10 13:45,WARNING,RAPID_CHANGE,Temperature moved +3.1 C in 15 min (+0.21 C/min) - check door seal or compressor
+SHP-004,2026-11-10 14:00,WARNING,RAPID_CHANGE,Temperature moved +1.9 C in 15 min (+0.13 C/min) - check door seal or compressor
+SHP-004,2026-11-10 23:30,WARNING,RAPID_CHANGE,Temperature moved -5.3 C in 15 min (-0.35 C/min) - check door seal or compressor
+SHP-004,2026-11-10 23:45,WARNING,RAPID_CHANGE,Temperature moved -3.2 C in 15 min (-0.21 C/min) - check door seal or compressor
+SHP-004,2026-11-11 00:00,WARNING,RAPID_CHANGE,Temperature moved -2.0 C in 15 min (-0.13 C/min) - check door seal or compressor
+SHP-004,2026-11-11 05:45,CRITICAL,MKT,Mean kinetic temperature -11.2 C is outside the safe range
